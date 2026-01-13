@@ -1,6 +1,6 @@
 # zstdBmpCompressor - 图像压缩库
 
-![](doc\pic\1.png)
+![](doc/pic/1.png)
 
 ## 项目概述
 
