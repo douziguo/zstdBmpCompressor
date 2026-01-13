@@ -1,0 +1,6 @@
+# 强制所有文件使用Unix风格行尾
+* text=auto eol=lf
+
+# 特别指定文件类型
+*.cpp eol=lf
+*.h eol=lf
