@@ -44,3 +44,4 @@ cmake-bulid-release
 .ide
 .git
 .idea
+.testBmp
